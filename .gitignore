@@ -1,0 +1,30 @@
+# --- Root / Environment ---
+venv/
+.venv/
+env/
+.env
+secrets/
+*.json
+
+# --- Backend (Python/ADK) ---
+adk-streaming/app/google_search_agent/__pycache__/
+adk-streaming/app/*.pyc
+adk-streaming/app/google_search_agent/saved_stories
+# Ignore ADK local state if it exists here
+adk-streaming/app/.adk/
+
+# --- Frontend (Next.js/Node/ADK) ---
+my-agent-ui/node_modules/
+my-agent-ui/.next/
+my-agent-ui/.adk/
+my-agent-ui/out/
+my-agent-ui/build/
+my-agent-ui/.env.local
+my-agent-ui/.env.development.local
+my-agent-ui/.env.test.local
+my-agent-ui/.env.production.local
+my-agent-ui/secrets/
+
+# --- OS / Misc ---
+.DS_Store
+Thumbs.db
