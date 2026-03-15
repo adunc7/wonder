@@ -8,6 +8,7 @@ secrets/
 
 # --- Backend (Python/ADK) ---
 adk-streaming/app/google_search_agent/__pycache__/
+
 adk-streaming/app/*.pyc
 adk-streaming/app/google_search_agent/saved_stories
 # Ignore ADK local state if it exists here
