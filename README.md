@@ -91,7 +91,8 @@ This project is configured for **Google Cloud Platform**.
 3. The agent greets you initially with a request for a prompt.  
 4. Hold the mic button and speak your request. When finished released the mic button. 
 5. Speak your request.
-6. The agent begins execution and will notify the user of updates. 
+6. The agent begins execution and will notify the user of updates.
+7. "Your story is complete" - Reload the page to view the new story. 
 
 ## Troubleshooting
 1. Reload the page
