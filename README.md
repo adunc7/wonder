@@ -8,15 +8,15 @@ Stories have been limited to <50 words, you can modify the code in the instructi
 ## 🏗 Architecture
 - **Frontend:** Next.js 
 - **Backend:** FastAPI on **Google Cloud Run**
-- **AI Orchestration:** Google Agent Development Kit (ADK)
-- **Storage:** Google Cloud Storage (GCS) for generated assets
+- **AI Orchestration:** **Google Agent Development Kit (ADK)**
+- **Storage:** **Google Cloud Storage (GCS) for generated assets**
 
 ## 🤖 Models used in Agents 
-
 -	"imagen-4.0-fast-generate-001" is used to generate the main image or cover image for the story. 
 -	“gemini-2.5-flash-image”, Nano Banana was used to generate the subsequent images with interleaved output. 
 -	“gemini-2.5-flash-preview-tts” was used to generate the audio narration. 
--	“veo-3.1-fast-generate-001” has also been used in testing to create video generation from the main image. 
+-	“veo-3.1-fast-generate-001” has also been used in testing to create video generation from the main image.
+-	Google Cloud Storage: Acts as the persistent "Memory Vault" for all generated assets, providing the frontend with signed URLs to display content back to the user.
 
 
 ## 🛠 Setup & Installation
