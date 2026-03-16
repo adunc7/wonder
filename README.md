@@ -3,7 +3,7 @@
 ## A voice-driven AI pipeline that converts spoken ideas into structured cinematic storyboards in a single interface
 A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemini Live API**.
 
-
+Stories have been limited to <50 words, you can modify the code in the instructions on the root_agent to extend the word limit. 
 
 ## 🏗 Architecture
 - **Frontend:** Next.js 
