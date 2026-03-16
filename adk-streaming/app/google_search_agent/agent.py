@@ -27,7 +27,7 @@ import asyncio
 
 load_dotenv()  # Load environment variables from .env file, if you have one
 
-BUCKET_NAME = "test-bucket-141"
+BUCKET_NAME = "your-bucket-name"
 
 #api_key = os.getenv("GOOGLE_API_KEY")
 
