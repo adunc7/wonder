@@ -27,6 +27,7 @@ cd your-repo-name
 ### Install Dependencies 
 
 1.`python3.13 -m venv .venv`
+
 2.`source .venv\Scripts\Activate.ps1`
 
 ### Backend
