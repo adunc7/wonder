@@ -22,6 +22,7 @@ Stories have been limited to <50 words, you can modify the code in the instructi
 ## 🛠 Setup & Installation
 
 Clone the github repository
+
 cd your-repo-name
 
 ### Install Dependencies 
