@@ -86,7 +86,7 @@ This project is configured for **Google Cloud Platform**.
 
 
 ## Usage 
-1. Click "Initialize Engine to Begin"
+1. Click "Initialize Engine"
 2. Hold the Mic icon and greet the agent, release the button when finished.
 3. The agent greets you initially with a request for a prompt.  
 4. Hold the mic button and speak your request. When finished released the mic button. 
@@ -96,7 +96,8 @@ This project is configured for **Google Cloud Platform**.
 ## Troubleshooting
 1. Reload the page
 2. Create new session at top of screen
-3. Hold mic and request story.
+3. Wait 2-3 seconds.
+4. Hold mic and request story.
 
 ## Screenshots 
 ![System Architecture](./images/Wonder_GIF.gif)
