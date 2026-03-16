@@ -60,3 +60,4 @@ GOOGLE_APPLICATION_CREDENTIALS = "/secrets/key.json"
 This project is configured for **Google Cloud Platform**.
 - Backend runs on **Cloud Run** with a WebSocket enabled entry point.
 - Assets are persisted in a **GCS Bucket**.
+- Deployment automated with Dockerfile - gcloud run deploy project-name --source . --region your-region --allow-unauthenticated --set-env-vars="PYTHONNUNBUFFERED =1, GOOGLE_GENAI_USE_VERTEXAI = TRUE"
