@@ -18,7 +18,7 @@ A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemi
 
 ## 🛠 Setup & Installation
 
-### git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+Vlone the github repository
 cd your-repo-name
 
 ### Backend
