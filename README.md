@@ -92,9 +92,11 @@ This project is configured for **Google Cloud Platform**.
 
 ## Usage 
 1. Click "Initialize Engine to Begin"
-2. Hold the Mic icon and speak, release when finished with response 
-3. Agent Responds with greeting
-4. Speak your request
+2. Hold the Mic icon and greet the agent, release the button when finished.
+3. The agent greets you initially with a request for a prompt.  
+4. Hold the mic button and speak your request. When finished released the mic button. 
+5. Speak your request.
+6. The agent begins execution and will notify the user of updates. 
 
 ## Troubleshooting
 1. Reload the page
