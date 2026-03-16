@@ -56,6 +56,17 @@ GCS_BUCKET_NAME="your_assets_bucket_name"
 GOOGLE_APPLICATION_CREDENTIALS = "/secrets/key.json"
 ```
 
+### 🔑 IAM Roles & Security
+Ensure the Service Account used by Cloud Run has these specific roles assigned in the [GCP IAM Console](https://console.cloud.google.com/iam-admin/iam):
+
+1. **Storage Object User** (`roles/storage.objectUser`)
+2. **Service Account Token Creator** (`roles/iam.serviceAccountTokenCreator`)
+3. **Vertex AI User** (`roles/aiplatform.user`)
+4. **Vertex AI Service Agent** (`roles/aiplatform.user`)
+
+
+
+
 ## ☁️Deployment
 
 This project is configured for **Google Cloud Platform**.
