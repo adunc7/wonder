@@ -54,7 +54,7 @@ GCS_BUCKET_NAME=your_assets_bucket_name
 
 ### 🔑 Frontend Environment Configuration
 
-You will need to set up `.env` files in both the root of the `/backend` and `/my-agent-ui` folders.
+You will need to set up `.env` files in both the root of the `/google_search_agenrt` and `/my-agent-ui` folders.
 
 ### Frontend (`/my-agent-ui/.env`)
 ```env
