@@ -107,5 +107,3 @@ This project is configured for **Google Cloud Platform**.
 
 ![System Architecture](./images/Image2.png)
 
-[![Watch the Demo](https://img.youtube.com/vi/lEINmb6sfk0/0.jpg)](https://youtu.be/lEINmb6sfk0)
-
