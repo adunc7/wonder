@@ -107,3 +107,6 @@ This project is configured for **Google Cloud Platform**.
 
 ![System Architecture](./images/Image2.png)
 
+![System Architecture](./images/Wonder_wiz.gif)
+
+
