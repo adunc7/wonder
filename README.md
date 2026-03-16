@@ -97,8 +97,7 @@ This project is configured for **Google Cloud Platform**.
 
 ## Troubleshooting
 1. Reload the page
-2. Create new session at top of screen
-3. Wait 2-3 seconds.
+2. Wait 2-3 seconds.
 4. Hold mic and request story.
 
 ## Screenshots 
