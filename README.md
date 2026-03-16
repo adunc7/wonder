@@ -3,6 +3,8 @@
 ## A voice-driven AI pipeline that converts spoken ideas into structured cinematic storyboards in a single interface
 A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemini Live API**.
 
+
+
 ## 🏗 Architecture
 - **Frontend:** Next.js 
 - **Backend:** FastAPI on **Google Cloud Run**
@@ -21,6 +23,11 @@ A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemi
 
 Vlone the github repository
 cd your-repo-name
+
+### Install Dependencies 
+
+python3.13 -m venv .venv
+source .venv\Scripts\Activate.ps1
 
 ### Backend
 1. `cd adk-streaming/app/google_search_agent`
