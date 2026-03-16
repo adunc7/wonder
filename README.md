@@ -26,8 +26,8 @@ cd your-repo-name
 
 ### Install Dependencies 
 
-python3.13 -m venv .venv
-source .venv\Scripts\Activate.ps1
+'python3.13 -m venv .venv'
+'source .venv\Scripts\Activate.ps1'
 
 ### Backend
 1. `cd adk-streaming/app/google_search_agent`
