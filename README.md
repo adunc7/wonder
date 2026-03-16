@@ -23,7 +23,12 @@ A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemi
 2. `pip install -r requirements.txt`
 3. `uvicorn main:app --reload`
 
-### 🔑 Environment Configuration
+## Frontend
+1. `cd my-agent-ui`
+2. `npm install`
+3. `npm run dev`
+
+## 🔑 Environment Configuration
 
 You will need to set up `.env` files in both the root of the `/backend` and `/agent-ui` folders.
 
@@ -33,10 +38,7 @@ GOOGLE_API_KEY=your_gemini_api_key
 GCP_PROJECT_ID=your_project_id
 GCS_BUCKET_NAME=your_assets_bucket_name
 
-## Frontend
-1. `cd my-agent-ui`
-2. `npm install`
-3. `npm run dev`
+
 
 ### 🔑 Frontend Environment Configuration
 
