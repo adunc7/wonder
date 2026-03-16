@@ -99,11 +99,10 @@ This project is configured for **Google Cloud Platform**.
 3. Hold mic and request story.
 
 ## Screenshots 
-
+![System Architecture](./images/Wonder_GIF.gif)
 
 ![System Architecture](./images/Image1.png)
 
 ![System Architecture](./images/Image2.png)
 
-![System Architecture](./images/Wonder_GIF.gif)
 
