@@ -21,10 +21,10 @@ A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemi
 ### Backend
 1. `cd adk-streaming/app`
 2. `pip install -r requirements.txt`
-3. `python main.py`
+3. `uvicorn main:app --reload`
 
 ### Frontend
-1. `cd agent-ui`
+1. `cd my-agent-ui`
 2. `npm install`
 3. `npm run dev`
 
