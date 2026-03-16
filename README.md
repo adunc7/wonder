@@ -90,13 +90,13 @@ This project is configured for **Google Cloud Platform**.
 ![System Architecture](./images/Image2.png)
 
 
-##Usage 
+## Usage 
 1. Click "Initialize Engine to Begin"
 2. Hold the Mic icon and speak, release when finished with response 
 3. Agent Responds with greeting
 4. Speak your request
 
-##Troubleshooting
+## Troubleshooting
 1. Reload the page
 2. Create new session at top of screen
 3. Hold mic and request story. 
