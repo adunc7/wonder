@@ -11,7 +11,7 @@ Stories have been limited to <50 words, you can modify the code in the instructi
 - **AI Orchestration:** **Google Agent Development Kit (ADK)**
 - **Storage:** **Google Cloud Storage (GCS) for generated assets**
 
-## 🤖 Models used in Agents 
+## 🤖 Models used in Agent 
 -	"imagen-4.0-fast-generate-001" was used to generate the main image or cover image for the story. 
 -	“gemini-2.5-flash-image”, Nano Banana was used to generate the subsequent images with interleaved output. Option exists to upgrade to Nano Banana 2. 
 -	“gemini-2.5-flash-preview-tts” was used to generate the audio narration. 
@@ -42,7 +42,7 @@ cd your-repo-name
 
 ## 🔑 Environment Configuration
 
-You will need to set up `.env` files in both the root of the `/backend` and `/agent-ui` folders.
+You will need to set up `.env` files in both the root of the `/google_search_agnet` and `/my-agent-ui` folders.
 
 ### Backend (`/google_search_agent/.env`)
 ```env
