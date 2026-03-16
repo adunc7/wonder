@@ -19,7 +19,7 @@ A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemi
 ## 🛠 Setup & Installation
 
 ### Backend
-1. `cd adk-streaming/app`
+1. `cd adk-streaming/app/google_search_agent`
 2. `pip install -r requirements.txt`
 3. `uvicorn main:app --reload`
 
