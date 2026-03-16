@@ -82,12 +82,7 @@ This project is configured for **Google Cloud Platform**.
 - Assets are persisted in a **GCS Bucket**.
 - Deployment automated with Dockerfile - gcloud run deploy project-name --source . --region your-region --allow-unauthenticated --set-env-vars="PYTHONNUNBUFFERED =1, GOOGLE_GENAI_USE_VERTEXAI = TRUE"
 
-## Screenshots 
 
-
-![System Architecture](./images/Image1.png)
-
-![System Architecture](./images/Image2.png)
 
 
 ## Usage 
@@ -101,4 +96,14 @@ This project is configured for **Google Cloud Platform**.
 ## Troubleshooting
 1. Reload the page
 2. Create new session at top of screen
-3. Hold mic and request story. 
+3. Hold mic and request story.
+
+## Screenshots 
+
+
+![System Architecture](./images/Image1.png)
+
+![System Architecture](./images/Image2.png)
+
+![System Architecture](./images/Wonder_GIF.gif)
+
