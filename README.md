@@ -84,6 +84,19 @@ This project is configured for **Google Cloud Platform**.
 
 ## Screenshots 
 
+##Usage 
+1. Click "Initialize Engine to Begin"
+2. Hold the Mic icon and speak, release when finished with response 
+3. Agent Responds with greeting
+4. Speak your request
+
+##Troubleshooting
+1. Reload the page
+2. Create new session at top of screen
+3. Hold mic and request story. 
+   
+
+
 ![System Architecture](./images/Image1.png)
 
 ![System Architecture](./images/Image2.png)
