@@ -18,6 +18,9 @@ A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemi
 
 ## 🛠 Setup & Installation
 
+### git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
+
 ### Backend
 1. `cd adk-streaming/app/google_search_agent`
 2. `pip install -r requirements.txt`
@@ -50,9 +53,10 @@ GOOGLE_CLOUD_PROJECT= "your_poject_id"
 GOOGLE_CLOUD_LOCATION="your_location"
 GCS_BUCKET_NAME="your_assets_bucket_name"
 GOOGLE_APPLICATION_CREDENTIALS = "/secrets/key.json"
+```
 
+## ☁️Deplyment
 
-## ☁️ Deployment
 This project is configured for **Google Cloud Platform**.
 - Backend runs on **Cloud Run** with a WebSocket enabled entry point.
 - Assets are persisted in a **GCS Bucket**.
