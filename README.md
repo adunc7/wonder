@@ -84,6 +84,12 @@ This project is configured for **Google Cloud Platform**.
 
 ## Screenshots 
 
+
+![System Architecture](./images/Image1.png)
+
+![System Architecture](./images/Image2.png)
+
+
 ##Usage 
 1. Click "Initialize Engine to Begin"
 2. Hold the Mic icon and speak, release when finished with response 
@@ -94,11 +100,3 @@ This project is configured for **Google Cloud Platform**.
 1. Reload the page
 2. Create new session at top of screen
 3. Hold mic and request story. 
-   
-
-
-![System Architecture](./images/Image1.png)
-
-![System Architecture](./images/Image2.png)
-
-
