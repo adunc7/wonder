@@ -3,6 +3,8 @@
 A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemini Live API**.
 A voice-driven AI pipeline that converts spoken ideas into structured cinematic storyboards in a single interface.
 
+
+
 ## 🏗 Architecture
 - **Frontend:** Next.js 
 - **Backend:** FastAPI on **Google Cloud Run**
@@ -56,7 +58,7 @@ GCS_BUCKET_NAME="your_assets_bucket_name"
 GOOGLE_APPLICATION_CREDENTIALS = "/secrets/key.json"
 ```
 
-## ☁️Deplyment
+## ☁️Deployment
 
 This project is configured for **Google Cloud Platform**.
 - Backend runs on **Cloud Run** with a WebSocket enabled entry point.
