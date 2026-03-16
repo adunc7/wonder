@@ -39,19 +39,19 @@ IMG_MODEL = "imagen-4.0-fast-generate-001"  #"imagen-4.0-generate-001'" #"imagen
 
 
 
-#client = genai.Client(
-#    vertexai = True ,
-#    project=os.getenv("GOOGLE_CLOUD_PROJECT"), 
-#    location=os.getenv("GOOGLE_CLOUD_LOCATION")
-#)
-
-
-
 client = genai.Client(
     vertexai = True ,
-    project = "gemini-challenge-488717",
-    location="us-central1"
+    project=os.getenv("GOOGLE_CLOUD_PROJECT"), 
+    location=os.getenv("GOOGLE_CLOUD_LOCATION")
 )
+
+
+
+#client = genai.Client(
+#    vertexai = True ,
+#    project = "your-project-id",
+#    location="us-central1"
+#)
 
 #for m in client.models.list():
 #    print(m.name)
