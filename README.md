@@ -3,6 +3,8 @@
 A real-time, bi-directional (BIDI) AI agent powered by **Google ADK** and **Gemini Live API**.
 A voice-driven AI pipeline that converts spoken ideas into structured cinematic storyboards in a single interface.
 
+![System Architecture](./images/Image1.png)
+
 
 
 ## 🏗 Architecture
